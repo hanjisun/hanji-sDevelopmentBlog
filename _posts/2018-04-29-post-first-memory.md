@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markup: 맨 처음 글. 블로그에 기록을 남겨보자"
+title: "Post: 맨 처음 글. 블로그에 기록을 남겨보자"
 categories:
   - post
 tags:
